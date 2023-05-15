@@ -1,0 +1,44 @@
+{
+  "name":"hamza",
+  "Committee":"technical",
+  "isGrad":false,
+  "DateJoined":"21/12/2021",
+  
+}
+
+{
+  "name":"khaled",
+  "Committee":"pr",
+   "isGrad":false,
+  "DateJoined":"21/12/2021",
+  
+}
+
+{
+  "name":"mo",
+  "Committee":"smm",
+   "isGrad":false,
+  "DateJoined":"21/12/2021",
+  
+}
+
+
+{
+        "name": "tech",
+        "head_name": "george",
+        "vice_name": "medhat"
+}
+
+
+{
+        "name": "smm",
+        "head_name": "joe",
+        "vice_name": "sayed"
+}
+
+
+{
+        "name": "pr",
+        "head_name": "mousa",
+        "vice_name": "amar"
+}
